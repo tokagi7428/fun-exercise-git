@@ -1,3 +1,3 @@
 # Contributors
 
-- [Guide](tokagi7428@github.com)
+- [Guide-Tanatip](tokagi7428@github.com)
